@@ -1,18 +1,18 @@
 Install
 =======
-Install assembler and emulator
+Install assembler and emulator on MacOS:
 
-brew install nasm
-brew install qemu
+> brew install nasm
+> brew install qemu
 
 Compile
 =======
-Compile to binary
+Compile to binary:
 
-nasm -f bin main.asm -o out.bin
+> nasm -f bin main.asm -o out.bin
 
 Run
 ===
-Run on i386 architecture
+Run on i386 architecture:
 
-qemu-system-i386 -fda bin.out
+> qemu-system-i386 -fda bin.out
