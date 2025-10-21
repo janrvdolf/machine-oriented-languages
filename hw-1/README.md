@@ -3,6 +3,7 @@ Install
 Install assembler and emulator on MacOS:
 
 > brew install nasm
+
 > brew install qemu
 
 Compile
