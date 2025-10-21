@@ -1,6 +1,6 @@
-Simple bootloader 
-=================
-Simple bootloader printing out all registers.
+Bootsector
+==========
+Simple bootsector printing out all registers.
 
 Install
 -------
