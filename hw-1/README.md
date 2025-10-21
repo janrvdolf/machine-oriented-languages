@@ -16,6 +16,10 @@ Compile to binary:
 
 > nasm -f bin main.asm -o out.bin
 
+View the binary:
+
+> hexdump -C out.bin
+
 Run
 ---
 Run the binary on i386 architecture in 16b real mode:
