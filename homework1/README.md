@@ -13,6 +13,6 @@ Compile to binary:
 
 Run
 ===
-Run on i386 architecture:
+Run on i386 architecture in god mode:
 
 > qemu-system-i386 -fda bin.out
