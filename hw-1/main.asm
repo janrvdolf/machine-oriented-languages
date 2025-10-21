@@ -18,7 +18,7 @@ main:
 	push bx
 	push ax
 	add dx, 2
-	push DX ;skryty mov SP
+	push DX ;hidden "mov SP" 
 	push BP
 	push DI
 	push SI
