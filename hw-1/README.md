@@ -15,4 +15,4 @@ Run
 ===
 Run on i386 architecture in god mode:
 
-> qemu-system-i386 -fda bin.out
+> qemu-system-i386 -fda out.bin
