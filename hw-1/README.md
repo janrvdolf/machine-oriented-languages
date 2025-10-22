@@ -1,6 +1,6 @@
 Bootsector
 ==========
-Simple bootsector printing out all registers.
+Bootsector for x86/x86-64/AMD64 printing out all registers.
 
 Install
 -------
@@ -28,4 +28,4 @@ Run the binary on i386 architecture in 16b real mode:
 
 OR 
 
-Copy to your flash disc and run it on your machine. In case of UEFI, turn on legacy mode boot and turn off secure boot.
+Copy to your flash disc and run it on your machine. Will work only on Intel or AMD processors. In case of UEFI, turn on legacy mode boot and turn off secure boot.
