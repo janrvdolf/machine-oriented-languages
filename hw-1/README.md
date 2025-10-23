@@ -28,4 +28,4 @@ Run the binary on i386 architecture in 16b real mode:
 
 OR 
 
-Copy to your flash disc and run it on your machine. Will work only on Intel or AMD processors. In case of UEFI, turn on legacy mode boot and turn off secure boot.
+Copy to your flash disc and run it on your machine. Will work only on Intel or AMD processors. In case of UEFI BIOS, turn on legacy mode boot and turn off secure boot.
